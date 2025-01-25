@@ -1,8 +1,8 @@
 # Nodepay BOT
 Nodepay BOT
 
-- Register Here : [https://app.nodepay.ai/register?ref=A5IfSRL24yF1ufR]
-- Use Code : [A5IfSRL24yF1ufR]
+- Register Here : [Nodepay](https://app.nodepay.ai/register?ref=A5IfSRL24yF1ufR)
+- Use Code : A5IfSRL24yF1ufR
 
 ## Features
 
